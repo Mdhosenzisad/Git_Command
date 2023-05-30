@@ -11,3 +11,12 @@ git config --global user.name "Mdhosenzisad"
 git config --global user.email "zisad.cse.en@gmail.com"
 
 
+for local======>
+zisad@Md_Hosen_Zisad MINGW64 /e/HTML CSS/New folder (master)
+$ git config --local user.name "@irin.cse.en"
+
+zisad@Md_Hosen_Zisad MINGW64 /e/HTML CSS/New folder (master)
+$ git config --local user.email "irin.cse.en@gmail.com"
+
+zisad@Md_Hosen_Zisad MINGW64 /
+
